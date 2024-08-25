@@ -60,6 +60,17 @@ https://dwtkns.com/srtm30m/
 
 
 
+CYPRUS
+#######
+
+- Department of Lands and Surveys - INSPIRE GeoPortal: DTM 5 Meter
+https://eservices.dls.moi.gov.cy/#/national/inspiregeoportalmapviewer
+
+- NASA: SRTM Version 3.0 Global 1" DTMs
+https://dwtkns.com/srtm30m/
+
+
+
 CZECHIA
 ########
 
@@ -115,6 +126,9 @@ https://dwtkns.com/srtm30m/
 GERMANY
 ########
 
+- Landesamt für Geoinformation und Landentwicklung Baden-Württemberg: DGM 1 m
+https://www.lgl-bw.de/Produkte/3D-Produkte/Digitale-Gelaendemodelle/
+
 - Bayerische Vermessungsverwaltung (www.geodaten.bayern.de): DTM 1 m
 https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=dgm1
 
@@ -126,19 +140,29 @@ Für die Verwendung der Daten gelten folgende Nutzungsbestimmungen: http://www.s
 https://geoportal.brandenburg.de/detailansichtdienst/render?view=gdibb&url=https://geoportal.brandenburg.de/gs-json/xml?fileid=488a2b53-564f-43eb-88ec-0d87bb43ed20
 https://geobasis-bb.de/lgb/de/startseite/geodaten/3d-produkte/gelaendemodell/
 
-- Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung, 2014 : DTM 10 m
-http://suche.transparenz.hamburg.de/dataset/digitales-hohenmodell-hamburg-dgm-101
-License: Datenlizenz Deutschland Namensnennung 2.0
+- Landesamt GeoInformation Bremen: DTM 5 m
+https://metaver.de/trefferanzeige?docuuid=8CCBF995-0CBB-4E6B-968A-C56BBE39EBC2
+
+- Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung, 2014 : DTM 1 m
+https://metaver.de/trefferanzeige?docuuid=A39B4E86-15E2-4BF7-BA82-66F9913D5640
 
 - Hessisches Landesamt für Bodenmanagement und Geoinformation: DTM 1 m
 https://hvbg.hessen.de/landesvermessung/geotopographie/3d-daten/digitale-gelaendemodelle
 
+- Landesamt für innere Verwaltung Mecklenburg-Vorpommern: DTM 5 m 
+https://laiv.geodaten-mv.de/afgvk/Geotopographie/Beschreibung?produkt=DGM
+
+- Landesamt für Geoinformation und Landesvermessung Niedersachsen: DTM 1 m
+https://ni-lgln-opengeodata.hub.arcgis.com/apps/lgln-opengeodata::digitales-gel%C3%A4ndemodell-dgm1/about
+
 - Land Nordrhein-Westfalen (2017), DTM 1 m
 https://open.nrw/de/dataset/0c6796e5-9eca-4ae6-8b32-1fcc5ae5c481bkg
 
-- Landesamt für Vermessung und Geobasisinformation Rhineland-Palatinate: DTM 25 m (DGM25)
-http://www.lvermgeo.rlp.de/index.php?id=opendata
-©GeoBasis-DE / LVermGeoRP 2016, dl-de/by-2-0, http://www.lvermgeo.rlp.de [data modified]
+- Landesamt für Vermessung und Geobasisinformation Rheinland-Pfalz: DTM 1 m
+https://geoshop.rlp.de/opendata-dgm1.html
+
+- Landesamt für Vermessung, Geoinformation und Landentwicklung Saarland: DTM 1 m
+https://www.saarland.de/lvgl/DE/themen-aufgaben/themen/geotopographie/digitalegelaendemodelle/digitalegelaendemodelle
 
 - Staatsbetrieb Geobasisinformation und Vermessung Sachsen : DTM 2 m
 https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html
@@ -148,6 +172,10 @@ https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.htm
 
 - Freistaat Thüringen, Landesamt für Vermessung und Geoinformation: DTM 1 m (2014-2019), DTM 2 m (2010-2013)
 http://www.geoportal-th.de/de-de/downloadbereiche/downloadoffenegeodatenth%C3%BCringen/downloadh%C3%B6hendaten.aspx
+
+- Viewfinder Panoramas by Jonathan de Ferranti: 1" DTMs
+http://viewfinderpanoramas.org/dem3.html
+Jonathan de Ferranti permitted me to use his elevation data within my DTM using the CC BY 4.0 license terms.
 
 
 

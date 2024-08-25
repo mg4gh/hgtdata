@@ -1,6 +1,6 @@
-**********************************************************************************************
-*        DIGITAL LiDAR TERRAIN MODELS OF EUROPEAN COUNTRIES, 1 arcsecond, Version 22         *
-**********************************************************************************************
+**********************************************************************************
+*        DIGITAL LiDAR TERRAIN MODELS OF EUROPE, 1 arcsecond, Version 24         *
+**********************************************************************************
 
 THIS IS A COLLECTIVE DOWNLOAD OF ALL .HGT FILES OF AVAILABLE EUROPEAN COUNTRIES.
 
@@ -67,6 +67,8 @@ v21 (2023-06-16): Romania v1: Initial Release
                   Italy v2: Improved Emilia-Romagna & Sardegna, using Tinitaly DEM instead of SRTM in regions without own DTM
 v22 (2023-07-03): Slovakia v2: Complete coverage with LiDAR data
                   Czechia v2: Complete coverage with LiDAR data
+v23 (2024-04-02): Cyprus v1: Initial Release
+v24 (2024-07-16): Germany: Added LiDAR sources of Baden-Württemberg, Saarland, Niedersachsen, Mecklenburg-Vorpommern, Bremen and finer LiDAR-data of Rheinland-Pfalz
                   
 
 SOURCES und LICENCE
